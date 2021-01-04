@@ -1,4 +1,4 @@
-def reverse_each_word(string)
-  string.to_a
+def reverse_each_word(sentence)
+  string.to_a.reverse
   
 end
